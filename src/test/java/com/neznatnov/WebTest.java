@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class WebTest extends TestBase{
+public class WebTest extends TestBase {
 
     @Test
     public void visibleSignUp() {
